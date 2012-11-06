@@ -1,7 +1,7 @@
 #pragma once
 
 /***************************************************************************
- *   Copyright (C) 2008, 2012 by Arlen Albert Keshabyan                    *
+ *   Copyright (C) 2008, 2012 by Arlen Keshabyan                           *
  *   <arlen.albert@gmail.com>                                              *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
